@@ -1,5 +1,5 @@
-import React, { COmponent } from 'react';
-import '../App.module.css'
+import React, { Component } from 'react';
+import '../../src/App.css';
 
 class Square extends Component {
     render() {
